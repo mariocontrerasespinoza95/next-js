@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@next-auth/prisma-adapter": "^0.4.4-canary.81"
+  }
+}
